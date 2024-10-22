@@ -28,3 +28,29 @@ C:\Users\comcuru\Desktop\KT5_Module5_АкимоваВикторияИСП411\Pro
 C:\Users\comcuru\Desktop\KT5_Module5_АкимоваВикторияИСП411\Prokat\Prokat\obj\Debug\Prokat.csproj.CoreCompileInputs.cache
 C:\Users\comcuru\Desktop\KT5_Module5_АкимоваВикторияИСП411\Prokat\Prokat\obj\Debug\Prokat.exe
 C:\Users\comcuru\Desktop\KT5_Module5_АкимоваВикторияИСП411\Prokat\Prokat\obj\Debug\Prokat.pdb
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\Prokat.exe.config
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\Prokat.exe
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\Prokat.pdb
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\EntityFramework.dll
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\EntityFramework.xml
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.csproj.AssemblyReference.cache
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\MainWindow.g.cs
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Pages\autoriz.g.cs
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Pages\Listview.g.cs
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\App.g.cs
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat_Content.g.cs
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat_MarkupCompile.cache
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat_MarkupCompile.lref
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\MainWindow.baml
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Pages\autoriz.baml
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Pages\Listview.baml
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.g.resources
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.Properties.Resources.resources
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.csproj.GenerateResource.cache
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.csproj.CoreCompileInputs.cache
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.csproj.CopyComplete
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.exe
+C:\Users\comcuru\Desktop\Новая папка\KT5_Module5_AkimovaViktoria_ISP411\Prokat\Prokat\obj\Debug\Prokat.pdb

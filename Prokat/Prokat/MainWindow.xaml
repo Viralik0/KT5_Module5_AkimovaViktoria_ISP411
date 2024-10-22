@@ -19,11 +19,13 @@
                    HorizontalAlignment="Center"
                    VerticalAlignment="Center"
                    FontFamily="Comic Sans MS"
-                   FontSize="28"></Label>
+                   FontSize="28">
+            </Label>
             <Image Source="/Source/logo.png"
                    VerticalAlignment="Center"
                    HorizontalAlignment="Left"
                    Margin="10"/>
         </Grid>
+        <Frame Grid.Row="1" x:Name="MainFrame" NavigationUIVisibility="Hidden"> </Frame>
     </Grid>
 </Window>
